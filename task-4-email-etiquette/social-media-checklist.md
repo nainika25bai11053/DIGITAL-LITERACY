@@ -1,29 +1,29 @@
-SOCIAL MEDIA DO’S AND DON’TS 
+# SOCIAL MEDIA DO’S AND DON’TS 
 
-DO’S 
+## DO’S 
 
-Use respectful and polite language in posts and comments 
+- Use respectful and polite language in posts and comments 
 
-Verify information before sharing (avoid spreading fake news) 
+- Verify information before sharing (avoid spreading fake news) 
 
-Maintain privacy by controlling personal information 
+- Maintain privacy by controlling personal information 
 
-Use social media for learning and networking 
+- Use social media for learning and networking 
 
-Think before posting to protect your digital reputation 
+- Think before posting to protect your digital reputation 
 
  
 
-DON’TS 
+## DON’TS 
 
-Do not share offensive, abusive, or inappropriate content 
+- Do not share offensive, abusive, or inappropriate content 
 
-Avoid posting personal details like address or phone number 
+- Avoid posting personal details like address or phone number 
 
-Do not engage in online arguments or cyberbullying 
+- Do not engage in online arguments or cyberbullying 
 
-Avoid excessive use that affects studies or health 
+- Avoid excessive use that affects studies or health 
 
-Do not share unverified or misleading information 
+- Do not share unverified or misleading information 
 
  
