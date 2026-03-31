@@ -155,10 +155,11 @@ A professional email expressing interest in a summer internship.
 
 ## 🔗 Links
 
-* 🔗 LinkedIn: (Add link)
-* 🔗 GitHub: (Add link)
-* 🔗 Kaggle: (Add link)
-* 🔗 HackerRank: (Add link)
+* 🔗 LinkedIn: https://github.com/nainika25bai11053
+* 🔗 GitHub: www.linkedin.com/in/nainika-kumari-8171953ba
+* 🔗 Kaggle: https://www.kaggle.com/nainika25bai11053
+* 🔗 HackerRank: https://www.hackerrank.com/profile/nainika3225
+* google form : https://docs.google.com/forms/d/e/1FAIpQLSfF4jvTiRVRHeowZm_OPX7j7NE2eF2Xxp8XvqaTWfKm8nuOhA/viewform?usp=publish-editor
 
 ---
 
