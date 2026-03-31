@@ -153,7 +153,7 @@ A professional email expressing interest in a summer internship.
 
 ---
 
-## 🔗 Links (Add Your Profiles)
+## 🔗 Links
 
 * 🔗 LinkedIn: (Add link)
 * 🔗 GitHub: (Add link)
