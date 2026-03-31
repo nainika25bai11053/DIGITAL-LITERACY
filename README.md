@@ -1,5 +1,5 @@
 # DIGITAL-LITERACY
-# 📘 Digital Literacy Portfolio Project
+# 📘 Digital Literacy Project
 
 ##  Student Details
 
