@@ -13,7 +13,7 @@
 
 ## 📌 Project Overview
 
-This project is a comprehensive **Digital Literacy Portfolio** covering essential digital skills such as online safety, professional communication, coding practice, collaboration tools, and cybercrime awareness.
+This project is a comprehensive **Digital Literacy Project ** covering essential digital skills such as online safety, professional communication, coding practice, collaboration tools, and cybercrime awareness.
 
 The repository includes multiple tasks demonstrating practical knowledge of digital tools and responsible internet usage.
 
