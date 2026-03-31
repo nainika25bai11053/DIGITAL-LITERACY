@@ -3,7 +3,7 @@
 
 ##  Student Details
 
-* **Name:** nainika kumari
+* **Name:** nainika kumari 
 * **Branch:** B.Tech CSE
 * **Year:** 1st Year
 * **College:** VIT UNIVERSITY
